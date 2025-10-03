@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@rollup/rollup-linux-x64-gnu": "^4.46.4",
+    "@vercel/node": "^5.3.24",
     "bootstrap": "^5.3.7",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
