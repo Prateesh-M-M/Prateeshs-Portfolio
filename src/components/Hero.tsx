@@ -75,8 +75,15 @@ const Hero = () => {
               View My Work
             </InteractiveButton>
             
-            <a href="/resume.pdf" download>
-              <InteractiveButton variant="secondary" className="flex items-center gap-x-2 text-lg">
+            <a
+              href="/resume.pdf"          
+              download="Prateesh_CV.pdf" 
+              className="inline-block"
+            >
+              <InteractiveButton
+                variant="secondary"
+                className="flex items-center gap-x-2 text-lg"
+              >
                 <Download size={20} />
                 Download CV
               </InteractiveButton>
