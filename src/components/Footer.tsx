@@ -92,10 +92,6 @@ const Footer = () => {
                 workwithprateesh@gmail.com
               </p>
               <p className="text-gray-400">
-                <span className="text-blue-400 font-medium">Phone:</span><br />
-                +91 93530 97150
-              </p>
-              <p className="text-gray-400">
                 <span className="text-blue-400 font-medium">Location:</span><br />
                 Bangalore, IN
               </p>

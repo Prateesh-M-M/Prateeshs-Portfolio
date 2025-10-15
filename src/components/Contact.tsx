@@ -49,7 +49,6 @@ const Contact = () => {
 
   const contactInfo = [
     { icon: Mail, title: 'Email', value: 'workwithprateesh@gmail.com', link: 'mailto:workwithprateesh@gmail.com' },
-    { icon: Phone, title: 'Phone', value: '+91 93530 97150' },
     { icon: MapPin, title: 'Location', value: 'Bangalore, KA, INDIA' }
   ];
 
@@ -111,8 +110,7 @@ const Contact = () => {
             <div className="mt-6 sm:mt-8 p-4 sm:p-6 bg-gradient-to-r from-blue-600/20 to-purple-600/20 rounded-xl border border-blue-500/30">
               <h4 className="text-lg sm:text-xl font-bold mb-2 sm:mb-3 text-blue-400">Quick Response</h4>
               <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-                I typically respond to emails within 24 hours. For urgent projects, 
-                feel free to call me directly.
+                I typically respond to emails within 24 hours.
               </p>
             </div>
           </div>
